@@ -1,0 +1,26 @@
+{
+	"file": "https://github.com/37chris/Lmex-2/blob/master/Lmex%20test.csv",
+	"name": "L mex clones",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Protein" },
+		{ "type": "id", "index": 1, "name": "clone 1A" },
+		{ "type": "id", "index": 2, "name": "clone 1C" },
+		{ "type": "id", "index": 3, "name": "clone 2A" },
+		{ "type": "id", "index": 4, "name": "clone 2B" },
+		{ "type": "id", "index": 5, "name": "clone 2C" },
+		{ "type": "id", "index": 6, "name": "clone 2D" },
+		{ "type": "id", "index": 7, "name": "clone 3A" },
+		{ "type": "id", "index": 8, "name": "clone 3B" },
+		{ "type": "id", "index": 9, "name": "Average" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9 }
+	]
+}
+
+
+
+
