@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/37chris/Lmex-2/master/Lmex%20test.csv",
+	"name": "Lmex Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Protein" }
+		],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 9 }
+		]
+	}
